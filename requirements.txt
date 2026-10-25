@@ -1,0 +1,20 @@
+# ---------------------------------------------------------------
+# PENTING: samakan versi library dengan versi di Colab tempat model
+# dilatih. File .pkl bisa gagal dimuat kalau versinya berbeda.
+#
+# Cara mengecek di Colab:
+#   import sklearn, xgboost, lightgbm, pandas, numpy, joblib, matplotlib
+#   for m in (sklearn, xgboost, lightgbm, pandas, numpy, joblib, matplotlib):
+#       print(m.__name__, m.__version__)
+#
+# Lalu ganti baris di bawah menjadi, misalnya:  scikit-learn==1.6.1
+# (untuk sklearn, nama paketnya "scikit-learn").
+# ---------------------------------------------------------------
+streamlit
+pandas
+numpy
+matplotlib
+joblib
+scikit-learn
+xgboost
+lightgbm
