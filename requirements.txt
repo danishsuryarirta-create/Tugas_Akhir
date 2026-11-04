@@ -3,8 +3,8 @@
 # dilatih. File .pkl bisa gagal dimuat kalau versinya berbeda.
 #
 # Cara mengecek di Colab:
-#   import sklearn, xgboost, lightgbm, pandas, numpy, joblib, matplotlib
-#   for m in (sklearn, xgboost, lightgbm, pandas, numpy, joblib, matplotlib):
+import sklearn, xgboost, lightgbm, pandas, numpy, joblib, matplotlib
+for m in (sklearn, xgboost, lightgbm, pandas, numpy, joblib, matplotlib):
 #       print(m.__name__, m.__version__)
 #
 # Lalu ganti baris di bawah menjadi, misalnya:  scikit-learn==1.6.1
