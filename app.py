@@ -77,7 +77,7 @@ LABEL_AWAM = {
 
 OPSI_AWAM = {
     "Gender": {"Female": "Perempuan", "Male": "Laki-laki"},
-    "Hormonal Changes": {"Normal": "Normal", "Postmenopausal": "Postmenopausal (Tidak lagi mengalami menstruasi selama 12 bulan berturut-turut)"},
+    "Hormonal Changes": {"Normal": "Normal", "Postmenopausal": "Postmenopausal (Tidak mengalami menstruasi)"},
     "Family History": {"Yes": "Ya", "No": "Tidak"},
     "Race/Ethnicity": {"African American": "Keturunan Afrika-Amerika", "Asian": "Asia",
                        "Caucasian": "Caucasian (Kulit putih)"},
