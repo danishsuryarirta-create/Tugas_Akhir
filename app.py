@@ -77,20 +77,20 @@ LABEL_AWAM = {
 
 OPSI_AWAM = {
     "Gender": {"Female": "Perempuan", "Male": "Laki-laki"},
-    "Hormonal Changes": {"Normal": "Belum menopause / hormon normal", "Postmenopausal": "Sudah menopause"},
+    "Hormonal Changes": {"Normal": "Normal", "Postmenopausal": "Postmenopausal (Tidak lagi mengalami menstruasi selama 12 bulan berturut-turut)"},
     "Family History": {"Yes": "Ya", "No": "Tidak"},
     "Race/Ethnicity": {"African American": "Keturunan Afrika-Amerika", "Asian": "Asia",
-                       "Caucasian": "Kulit putih (Kaukasia)"},
-    "Body Weight": {"Normal": "Normal", "Underweight": "Kurus (di bawah berat badan ideal)"},
+                       "Caucasian": "Caucasian (Kulit putih)"},
+    "Body Weight": {"Normal": "Normal", "Underweight": "Kurus"},
     "Calcium Intake": {"Adequate": "Cukup", "Low": "Kurang"},
     "Vitamin D Intake": {"Sufficient": "Cukup", "Insufficient": "Kurang"},
     "Physical Activity": {"Active": "Aktif bergerak / berolahraga", "Sedentary": "Jarang bergerak (banyak duduk)"},
     "Smoking": {"Yes": "Ya, merokok", "No": "Tidak merokok"},
-    "Alcohol Consumption": {"Moderate": "Ya, sedang / kadang-kadang", "None": "Tidak minum alkohol"},
+    "Alcohol Consumption": {"Moderate": "Kadang-kadang", "None": "Tidak minum alkohol"},
     "Medical Conditions": {"Hyperthyroidism": "Tiroid terlalu aktif (hipertiroid)",
-                           "Rheumatoid Arthritis": "Radang sendi autoimun (rematik)",
+                           "Rheumatoid Arthritis": "Radang sendi kronis (rematik)",
                            "None": "Tidak ada"},
-    "Medications": {"Corticosteroids": "Obat steroid (kortikosteroid, mis. prednison)", "None": "Tidak ada"},
+    "Medications": {"Corticosteroids": "Corticosteroids (Obat antiradang atau anti-bengkak yang kuat dari dokter)", "None": "Tidak ada"},
     "Prior Fractures": {"Yes": "Ya, pernah", "No": "Belum pernah"},
 }
 
