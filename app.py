@@ -254,13 +254,13 @@ def halaman_prediksi(art):
             f"tulang dan periksakan diri jika ada keluhan."
         )
 
-    st.markdown("#### Tips umum menjaga tulang tetap kuat")
-    st.markdown(
-        "- Cukupi kalsium dari makanan (susu, keju, ikan teri, sayuran hijau).\n"
-        "- Dapatkan vitamin D, misalnya dengan berjemur pagi hari.\n"
-        "- Rutin bergerak atau berolahraga, terutama yang menumpu berat badan seperti jalan kaki.\n"
-        "- Hindari merokok dan batasi alkohol."
-    )
+    # st.markdown("#### Tips umum menjaga tulang tetap kuat")
+    # st.markdown(
+    #     "- Cukupi kalsium dari makanan (susu, keju, ikan teri, sayuran hijau).\n"
+    #     "- Dapatkan vitamin D, misalnya dengan berjemur pagi hari.\n"
+    #     "- Rutin bergerak atau berolahraga, terutama yang menumpu berat badan seperti jalan kaki.\n"
+    #     "- Hindari merokok dan batasi alkohol."
+    # )
 
     st.info(
         "**Perlu diketahui:** pada data yang dipakai untuk melatih sistem ini, **usia** sangat "
